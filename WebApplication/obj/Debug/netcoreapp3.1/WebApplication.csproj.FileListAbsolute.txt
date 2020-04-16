@@ -1,0 +1,80 @@
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.csprojAssemblyReference.cache
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.csproj.CoreCompileInputs.cache
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.MvcApplicationPartsAssemblyInfo.cache
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.AssemblyInfoInputs.cache
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.AssemblyInfo.cs
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/bin/Debug/netcoreapp3.1/appsettings.json
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/bin/Debug/netcoreapp3.1/WebApplication
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/bin/Debug/netcoreapp3.1/WebApplication.deps.json
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/bin/Debug/netcoreapp3.1/WebApplication.runtimeconfig.json
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/bin/Debug/netcoreapp3.1/WebApplication.runtimeconfig.dev.json
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/bin/Debug/netcoreapp3.1/WebApplication.dll
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/bin/Debug/netcoreapp3.1/WebApplication.pdb
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.RazorTargetAssemblyInfo.cache
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/staticwebassets/WebApplication.StaticWebAssets.Manifest.cache
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/staticwebassets/WebApplication.StaticWebAssets.xml
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.dll
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.pdb
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.genruntimeconfig.cache
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/bin/Debug/netcoreapp3.1/WebApplication.Views.dll
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/bin/Debug/netcoreapp3.1/WebApplication.Views.pdb
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.RazorAssemblyInfo.cache
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.RazorAssemblyInfo.cs
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.TagHelpers.input.cache
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.TagHelpers.output.cache
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.RazorCoreGenerate.cache
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.RazorTargetAssemblyInfo.cs
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.Views.pdb
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.csproj.CopyComplete
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/Razor/Views/Hello/Index.cshtml.g.cs
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/Razor/Views/Messages/ShowMessage.cshtml.g.cs
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/Razor/Views/Calculator/Result.cshtml.g.cs
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/Razor/Views/Movies/Add.cshtml.g.cs
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/Razor/Views/Movies/Index.cshtml.g.cs
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Search.cshtml.g.cs
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/zfazylz/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.exe
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.deps.json
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.json
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.dev.json
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.dll
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.pdb
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csprojAssemblyReference.cache
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cache
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cs
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfoInputs.cache
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfo.cs
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.input.cache
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.output.cache
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorCoreGenerate.cache
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Calculator\Result.cshtml.g.cs
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Hello\Index.cshtml.g.cs
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Messages\ShowMessage.cshtml.g.cs
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Add.cshtml.g.cs
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Search.cshtml.g.cs
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.Views.pdb
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.xml
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.genruntimeconfig.cache
+C:\Users\ezhar\OneDrive\Рабочий стол\.NetCoreFirstPractice-master\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CopyComplete
